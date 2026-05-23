@@ -6,7 +6,7 @@
   </a>
 </p>
 
-I am a passionate **Software Engineering Student** dedicated to building robust backends, dynamic frontends, and exploring the intersection of complex problem-solving and software architecture. 
+I am a curious **Software Engineering Student** dedicated to building robust backends, dynamic frontends, and exploring the intersection of complex problem-solving and software architecture. 
 
 ---
 
