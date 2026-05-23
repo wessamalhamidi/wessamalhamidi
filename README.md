@@ -1,7 +1,7 @@
 # Hi there, I'm Wessam Alhamidi! 👋
 
 <p align="left">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME_HERE" target="_blank">
+  <a href="https://linkedin.com/in/wessamalhamidi/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </p>
@@ -15,7 +15,7 @@ I am a passionate **Software Engineering Student** dedicated to building robust 
 - 🛠️ **Current Focus:** Building scalable web applications using full-stack Java and React ecosystem architectures.
 - 🔬 **Interests:** Deeply fascinated by advanced mathematics (Calculus & Discrete Math), software development lifecycles (SDLC), and the fascinating world of neuroscience and neural circuits.
 - 💬 **Ask me about:** Java OOP patterns, Spring Boot APIs, React state management, or why math is actually beautiful.
-- 📫 **How to reach me:** Connect with me on [LinkedIn](https://linkedin.com/in/YOUR_LINKEDIN_USERNAME_HERE)!
+- 📫 **How to reach me:** Connect with me on [LinkedIn](https://linkedin.com/in/wessamalhamidi/)!
 
 ---
 
