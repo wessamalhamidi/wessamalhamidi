@@ -51,12 +51,6 @@ Here is a live look at my coding streaks and overall profile contributions:
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=wessamalhamidi&theme=tokyonight" alt="wessamalhamidi GitHub Streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wessamalhamidi&show_icons=true&theme=tokyonight&count_private=true" alt="wessamalhamidi GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wessamalhamidi&layout=compact&theme=tokyonight" alt="wessamalhamidi Top Languages" />
-</p>
-
 ---
 
 <p align="center"><i>"The best way to predict the future is to invent it."</i></p>
