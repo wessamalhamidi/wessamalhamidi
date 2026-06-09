@@ -12,9 +12,8 @@ I am a **Software Engineering Student** dedicated to building dynamic frontends 
 
 ### 🧠 About Me
 
-- 🛠️ **Current Focus:** Building scalable web applications using full-stack Java and React ecosystem architectures.
-- 🔬 **Interests:** Deeply fascinated by advanced mathematics (Calculus & Discrete Math), software development lifecycles (SDLC), and the fascinating world of neuroscience and neural circuits.
-- 💬 **Ask me about:** Java OOP patterns, Spring Boot APIs, React state management, or why math is actually beautiful.
+- 🛠️ **Current Focus:** Building Front-End web applications, continue learning new technologies and improving myself as a software engineer student.
+- 🔬 **Interests:** Deeply fascinated by advanced mathematics (Calculus & Discrete Math), software development lifecycles (SDLC), and AI world.
 - 📫 **How to reach me:** Connect with me on [LinkedIn](https://linkedin.com/in/wessamalhamidi/)!
 
 ---
