@@ -6,7 +6,7 @@
   </a>
 </p>
 
-I am a curious **Software Engineering Student** dedicated to building robust backends, dynamic frontends, and exploring the intersection of complex problem-solving and software architecture. 
+I am a **Software Engineering Student** dedicated to building dynamic frontends and exploring the intersection of complex problem-solving and software architecture.Always eager to learn new things in tech and explore new technologies. 
 
 ---
 
@@ -20,12 +20,6 @@ I am a curious **Software Engineering Student** dedicated to building robust bac
 ---
 
 ### 🛠️ My Tech Stack
-
-**Backend & Core Development**
-<p align="left">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot" />
-</p>
 
 **Frontend Development**
 <p align="left">
